@@ -3,7 +3,7 @@
 This project is about Add, Remove items and increment and decrement item quantity and total the sum of all items quantities.
 
 ## Demo
-Open [http://tejassavaliya.github.io/react-item-cart](http://tejassavaliya.github.io/react-item-cart) 
+Open [http://tejassavaliya.github.io/react-redux-items-cart](http://tejassavaliya.github.io/react-redux-items-cart) 
 
 
 ## Available Scripts
