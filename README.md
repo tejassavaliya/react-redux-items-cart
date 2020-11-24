@@ -5,6 +5,7 @@ This project is about Add, Remove items and increment and decrement item quantit
 ## Demo
 Open [http://tejassavaliya.github.io/react-redux-items-cart](http://tejassavaliya.github.io/react-redux-items-cart) 
 
+![React Redux items cart Demo](react-redux-items-cart.gif)
 
 ## Available Scripts
 
